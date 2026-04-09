@@ -46,4 +46,4 @@ Este projeto oferece uma interface intuitiva para configurar e realizar sorteios
 
 ---
 
-Desenvolvido com foco em excelência visual e funcionalidade por [Seu Nome/Grull Pixel].
+Desenvolvido com foco em excelência visual e funcionalidade por Grull Picture Web.
