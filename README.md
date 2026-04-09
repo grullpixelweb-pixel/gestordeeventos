@@ -9,7 +9,8 @@ Este projeto oferece uma interface intuitiva para configurar e realizar sorteios
 ### 🌟 Principais Recursos
 
 - **Limite de Participantes**: Suporte para até 15 participantes com nomes personalizados.
-- <img width="859" height="725" alt="01" src="https://github.com/user-attachments/assets/0b0ecad4-f527-47ab-8eb6-b0a5f06e780e" />
+- <img width="1021" height="730" alt="Captura de Tela 2026-04-08 às 23 30 37" src="https://github.com/user-attachments/assets/1e66f28c-63a4-4361-b807-c4930bce83cd" />
+
 
 - **Segurança Administrativa**: Bloqueio de interface via senha para evitar que participantes alterem ou parem o sorteio.
 
@@ -17,11 +18,12 @@ Este projeto oferece uma interface intuitiva para configurar e realizar sorteios
 
 - **Temporizador Inteligente**: Defina o horário de início e término. O sorteio roda automaticamente entre esses horários.
 
-- <img width="481" height="519" alt="05" src="https://github.com/user-attachments/assets/669aa037-c001-486f-a69b-cc4b66f5288b" />
+- <img width="1021" height="579" alt="Captura de Tela 2026-04-08 às 23 30 50" src="https://github.com/user-attachments/assets/3b865e7d-28ba-4b34-ba76-5b6dc8a68345" />
+
 
 - **Duração Flexível**: Suporta sorteios com duração de até 3 horas.
 
-- <img width="855" height="573" alt="03" src="https://github.com/user-attachments/assets/c23f58b4-314d-4368-a595-8b3c07e7bf4a" />
+- <img width="1010" height="626" alt="Captura de Tela 2026-04-08 às 23 32 14" src="https://github.com/user-attachments/assets/5cb3fcce-a44e-4d52-9ed5-a6df28092393" />
 
 - **Truque do Troféu**: Sistema de recuperação de emergência (Master Reset) oculto para o administrador.
 - **Interface Premium**: Design moderno com suporte para modo escuro, animações suaves e visual "glassmorphism".
