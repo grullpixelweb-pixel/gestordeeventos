@@ -11,7 +11,6 @@ Este projeto oferece uma interface intuitiva para configurar e realizar sorteios
 - **Limite de Participantes**: Suporte para até 15 participantes com nomes personalizados.
 - <img width="1021" height="730" alt="Captura de Tela 2026-04-08 às 23 30 37" src="https://github.com/user-attachments/assets/1e66f28c-63a4-4361-b807-c4930bce83cd" />
 
-
 - **Segurança Administrativa**: Bloqueio de interface via senha para evitar que participantes alterem ou parem o sorteio.
 
 - <img width="465" height="706" alt="02" src="https://github.com/user-attachments/assets/4877da64-3b1c-4962-8f40-0f316f7231bc" />

@@ -395,12 +395,12 @@ function App() {
             exit={{ opacity: 0, x: 20 }}
             className="card"
           >
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '1.5rem', gap: '1rem' }}>
-              <div>
-                <h1 style={{ margin: 0, fontSize: '1.5rem' }}>{t('managerTitle')}</h1>
-                <p style={{ margin: '0.25rem 0 0 0', color: 'var(--text-muted)', fontSize: '0.85rem' }}>{t('description')}</p>
+            <div className="card-header">
+              <div className="card-title-area">
+                <h1 className="card-title">{t('managerTitle')}</h1>
+                <p className="card-description">{t('description')}</p>
               </div>
-              <div style={{ display: 'flex', gap: '0.5rem' }}>
+              <div className="card-actions">
                 <button 
                   className="btn-icon"
                   onClick={masterReset}
@@ -466,9 +466,9 @@ function App() {
               <input 
                 type="password" 
                 placeholder="****"
+                className="admin-input"
                 value={adminPassword}
                 onChange={(e) => setAdminPassword(e.target.value)}
-                style={{ fontSize: '1.2rem', padding: '0.75rem' }}
               />
             </div>
 
@@ -537,9 +537,9 @@ function App() {
                             <input 
                               type="text" 
                               placeholder={`${t('placeholder')} ${p.id}`}
+                              className="table-input"
                               value={p.name}
                               onChange={(e) => handleNameChange(p.id, e.target.value)}
-                              style={{ background: 'transparent', border: 'none', padding: '0.25rem' }}
                             />
                           </td>
                         </motion.tr>
